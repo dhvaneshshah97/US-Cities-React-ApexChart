@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/US_Cities_React_ApexChart/static/css/main.c85900e2.chunk.css",
+    "main.js": "/US_Cities_React_ApexChart/static/js/main.2aecfb20.chunk.js",
+    "main.js.map": "/US_Cities_React_ApexChart/static/js/main.2aecfb20.chunk.js.map",
+    "runtime-main.js": "/US_Cities_React_ApexChart/static/js/runtime-main.53661274.js",
+    "runtime-main.js.map": "/US_Cities_React_ApexChart/static/js/runtime-main.53661274.js.map",
+    "static/js/2.1b9ccccc.chunk.js": "/US_Cities_React_ApexChart/static/js/2.1b9ccccc.chunk.js",
+    "static/js/2.1b9ccccc.chunk.js.map": "/US_Cities_React_ApexChart/static/js/2.1b9ccccc.chunk.js.map",
+    "index.html": "/US_Cities_React_ApexChart/index.html",
+    "precache-manifest.f1c9d1f7fda127a922f928830335a529.js": "/US_Cities_React_ApexChart/precache-manifest.f1c9d1f7fda127a922f928830335a529.js",
+    "service-worker.js": "/US_Cities_React_ApexChart/service-worker.js",
+    "static/css/main.c85900e2.chunk.css.map": "/US_Cities_React_ApexChart/static/css/main.c85900e2.chunk.css.map",
+    "static/js/2.1b9ccccc.chunk.js.LICENSE.txt": "/US_Cities_React_ApexChart/static/js/2.1b9ccccc.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.53661274.js",
+    "static/js/2.1b9ccccc.chunk.js",
+    "static/css/main.c85900e2.chunk.css",
+    "static/js/main.2aecfb20.chunk.js"
+  ]
+}
